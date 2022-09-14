@@ -1,2 +1,2 @@
-# intelligent_placer
-Intelligent Placer for ML course. SPbPU, 2022
+# Intelligent Placer
+Задание по курсу "Решение задач с семантическим разрывом". СПбПУ, 2022г.
