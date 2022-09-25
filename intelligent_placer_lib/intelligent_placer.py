@@ -38,4 +38,4 @@ if __name__ == "__main__":
         help="Path to polygon file"
     )
     args = parser.parse_args()
-    check_image(args.img, get_polygon_list(args.polygon))
+    print(check_image(args.img, get_polygon_list(args.polygon)))
