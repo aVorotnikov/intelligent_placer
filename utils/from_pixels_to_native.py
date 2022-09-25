@@ -20,4 +20,4 @@ for polygon in data["polygons"]:
     ratio = polygon["ratio"]
     with open(polygon["input"], 'w') as polygonFile:
         for vert in polygonData:
-            polygonFile.write("{} {}\n".format(vert[0] / ratio, vert[1] / ratio))
+            polygonFile.write("{:.2f} {:.2f}\n".format(vert[0] / ratio, vert[1] / ratio))
