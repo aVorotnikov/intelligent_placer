@@ -1,12 +1,10 @@
 """Main library file
 
-Contains main library functind - check_image
+Contains main library function - check_image
 
 Need 2 arguments if script is executed:
     * path to image
     * path to polygon coordinates file
-
-Example of script executing:
 """
 
 import argparse
