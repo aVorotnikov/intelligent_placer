@@ -1,0 +1,9 @@
+images/test_input/color_similar True
+images/test_input/color_similar_too_big False
+images/test_input/rotation True
+images/test_input/bars_only True
+images/test_input/bars_only_complex_border True
+images/test_input/circles_only True
+images/test_input/spinner_curves True
+images/test_input/all_different True
+images/test_input/all_different_too_big False
